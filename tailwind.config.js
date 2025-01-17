@@ -10,7 +10,7 @@ export default {
         },
       },
       backgroundImage: {
-        bannarImage: "/src/assets/images/first.webp",
+        bannarImage: "url('/src/assets/images/first.webp')",
       },
     },
   },
